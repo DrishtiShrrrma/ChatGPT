@@ -1,0 +1,19 @@
+One of the most common types of advice we give at Y Combinator is to do things that don't scale. A lot of would-be founders believe that startups either take off or don't. You build something, make it available, and if you've made a better mousetrap, people beat a path to your door as promised. Or they don't, in which case the market must not exist.
+
+Actually startups take off because the founders make them take off. There may be a handful that just grew by themselves, but usually it takes some initial push to get the flywheel going. You have to make a deliberate effort to pull the start cord on your engine. And if the engine catches, you'll usually find it pulls the rest of the train.
+
+What I mean by "do things that don't scale" is that most startups that succeed do it by doing things that don't scale. They don't think about how to make something highly scalable at the beginning. They just want to make sure they're doing something people want. And then they'll think about how to make it scale later.
+
+Airbnb is a great example of this. In the early days, Airbnb's founders went door-to-door in New York, trying to convince people to use their site to book a place to stay. That didn't scale very well, but it got them the initial traction they needed to build a better product. Stripe is another example of this. In the early days, the founders manually signed up the first users for their payment system. That didn't scale very well, but it allowed them to get the feedback they needed to build a better product.
+
+The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them.
+
+This is especially true in the beginning. The most successful startups are the ones that manage to get a small but growing group of users to love them. That's what enables them to take off. Airbnb got 100 users from their door-to-door efforts. Dropbox got several thousand signups from just showing a demo video. Stripe got their first users by manually signing them up.
+
+You might think that manual labor is a bad thing, but for startups it's what lets them get started. Once you're established, then you can start thinking about how to scale. But at the beginning, you need to do things that don't scale.
+
+Another common unscalable thing founders have to do is to provide personal support to their first users. Most startups don't have the resources to build an elaborate support system, so the founders have to do it themselves. This is actually a good thing because it allows the founders to learn from their customers and build a better product.
+
+The danger is that founders will focus too much on the unscalable things and not enough on building a better product. It's easy to get distracted by the things that don't scale, but the only way to really succeed is to build something people love.
+
+So if you're starting a startup, don't worry about scalability in the beginning. Just worry about building something people want. Once you have a small but growing group of users, then you can start thinking about how to scale. But at the beginning, do things that don't scale.
