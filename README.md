@@ -7,4 +7,5 @@
 
 
 fine-tuned using Supervised Learning + RLHF 
+
 **Dataset :** A massive corpus of text data, around 570GB of datasets, including web pages, books, and other sources.
