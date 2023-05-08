@@ -3,7 +3,7 @@
 
 
 
-# ChatGPT
+### 1. ChatGPT
 
 
 fine-tuned using Supervised Learning + RLHF 
