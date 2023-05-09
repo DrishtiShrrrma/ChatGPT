@@ -9,7 +9,7 @@
 ### 1. ChatGPT
 
 
-![image](https://user-images.githubusercontent.com/129742046/236998923-a155a2e4-d2b3-4157-a8da-53126150b66c.png)
+![image](https://user-images.githubusercontent.com/129742046/236999448-5a359429-6276-4396-91c1-27334d1e1e6e.png)
 
 - ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response
 - trained using Supervised Learning + RLHF 
