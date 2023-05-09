@@ -12,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/129742046/236999448-5a359429-6276-4396-91c1-27334d1e1e6e.png)
 
 - ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response
+- ChatGPT finetuned on GPT-3.5 and InstructGPT fine-tuned on GPT-3
 - trained using Supervised Learning + RLHF 
 - **Dataset :** The primary source of data for ChatGPT is the WebText dataset, which consists of approximately 8 million web pages collected from the internet. This dataset is publicly available and was created by OpenAI specifically for training language models.
     - A massive corpus of text data, around 570GB of data sourced from books, wikipedia, research articles, webtexts, websites and other forms of content and writing on the net - Approximately 300 billion words were fed into the system.
