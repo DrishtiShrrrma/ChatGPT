@@ -19,3 +19,8 @@
 - The model works on probability as a result of which it is able to predict the next word/prompt in a sentence.
 - While training, if the model gets output wrong, the correct answer is fed back into the model thereby training it to the right responses and also helping it build on its knowledge bank.
 - It then goes through the next stage where it offers diverse responses and a human annotator ranks it from the most appropriate to wrong—training the system to compare.
+
+##### Limitations
+- ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers.
+- ChatGPT is sensitive to tweaks to the input phrasing or attempting the same prompt multiple times.
+- It will sometimes respond to harmful instructions or exhibit biased behavior - Moderation API is used to warn or block certain types of unsafe content, but we expect it to have some false negatives and positives for now
